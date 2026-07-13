@@ -8,3 +8,6 @@
 
 ## Pods Running
 ![Alt text](snapshots/pod_runnig.png)
+
+# Website_running
+![Alt text](snapshots/application_running.png)
