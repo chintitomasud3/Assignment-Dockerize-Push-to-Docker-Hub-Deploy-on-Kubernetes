@@ -4,4 +4,4 @@
 ## Screenshots
 ### EC2 Running
 
-![Alt text](snapshorts/ec2_instance)
+![Alt text](snapshots/ec2_instance.png)
