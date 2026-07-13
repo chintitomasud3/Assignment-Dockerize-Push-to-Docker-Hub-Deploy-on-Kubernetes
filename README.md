@@ -5,3 +5,6 @@
 ### EC2 Running
 
 ![Alt text](snapshots/ec2_instance.png)
+
+## Pods Running
+![Alt text](snapshots/pod_runnig.png)
